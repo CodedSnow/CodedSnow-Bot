@@ -1,0 +1,11 @@
+{
+  "name": "cs_discordbot",
+  "version": "v2.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jerskisnow/CodedSnow-Bot",
+  "author": "Jerry Blaauw (jerskisnow)",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.0.0-dev.1ac9a2eb5bfef6d009de7c54d3fac5e3d4a5afdc"
+  }
+}
